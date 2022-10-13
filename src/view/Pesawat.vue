@@ -10,7 +10,7 @@
       <div class="picture">
       <img src="https://indonesia-air.com/wp-content/uploads/2020/01/Legacy-TFS.jpg" alt="" width="200px" >
     </div>
-      <h2 class="p"> Pesawat</h2>
+      <h2 class="p"> Pesawat terbang</h2>
       <p class=""> (bahasa Inggris: Airplane) adalah pesawat udara yang lebih berat dari udara, bersayap tetap, dan dapat terbang dengan tenaga sendiri.[1] Secara umum istilah pesawat terbang sering juga disebut dengan pesawat udara, kapal terbang atau pesawat saja, dengan tujuan pendefenisian yang sama sebagai kendaraan yang mampu terbang di atmosfer atau udara. Namun dalam dunia penerbangan, istilah pesawat terbang berbeda dengan pesawat udara, istilah pesawat udara jauh lebih luas pengertiannya karena telah mencakup pesawat terbang dan helikopter.</p>
     </div>
     <div class="form">
